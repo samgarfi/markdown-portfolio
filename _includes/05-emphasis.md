@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Tennis*
+_Soccer_
+
+**Reading**
+__Netflix__
+
+_Reading **and** netflix are both great_
